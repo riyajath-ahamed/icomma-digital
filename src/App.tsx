@@ -2,7 +2,6 @@ import Navigation from './components/navigation'
 import Hero from './components/hero'
 import mobilehero from './assets/images/image-hero-mobile.png'
 import desktophero from './assets/images/image-hero-desktop.png'
-import './App.css'
 
 function App() {
 

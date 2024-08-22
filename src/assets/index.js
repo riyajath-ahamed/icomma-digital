@@ -1,0 +1,1 @@
+export {default as IcommaLogo} from './icon.svg';
